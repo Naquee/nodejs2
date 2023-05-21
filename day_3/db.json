@@ -1,0 +1,26 @@
+{
+    "todos": [],
+    "posts": [],
+    "products": [
+        {
+            "prodId": 1,
+            "Price": 100,
+            "Made in": "India"
+        },
+        {
+            "prodId": 2,
+            "Price": 200,
+            "Made in": "India"
+        },
+        {
+            "prodId": 3,
+            "Price": 300,
+            "Made in": "India"
+        },
+        {
+            "prodId": 4,
+            "Price": 400,
+            "Made in": "India"
+        }
+    ]
+}
